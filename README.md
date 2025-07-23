@@ -2,21 +2,6 @@
 
 ###
 
-<h2 align="center">Contato / Contact Me</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/joaogabrielrocha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:joaogabriel2r.profissional@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Sobre mim | About Me</h2>
 
 ###
@@ -141,3 +126,16 @@
 </div>
 
 ###
+
+<h2 align="center">Contato / Contact Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joaogabrielrocha/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:joaogabriel2r.profissional@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
