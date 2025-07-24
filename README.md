@@ -6,7 +6,6 @@
 
 ###
 
-<p align="left">
   - 🎓 Estudante de Engenharia de Software no UniCEUB, em busca da primeira oportunidade de estágio em desenvolvimento FullStack. <br><br>
   - 🎓 A Software Engineering student at UniCEUB, actively pursuing an internship role in Full-Stack development.<br><br>
   <br>
@@ -17,7 +16,7 @@
   - 🌱Driven by curiosity and a passion for continuous learning.<br><br>
   <br>
   - 🚀 Pronto para transformar conhecimento teórico em resultados práticos, colaborando ativamente com os objetivos da equipe.<br><br>
-  - 🚀 Ready to apply my academic knowledge to real-world projects and collaborate effectively to achieve team objectives.</p>
+  - 🚀 Ready to apply my academic knowledge to real-world projects and collaborate effectively to achieve team objectives.
 
 ###
 
