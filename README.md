@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=joaogabrieldev&theme=cobalt&border_radius=8&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=500&background=46%2C0F131A%2C2C394D&border=0F131A)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaogabrieldev&theme=cobalt&border_radius=8&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=500&background=46%2C0F131A%2C2C394D&border=0F131A" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabrieldev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
