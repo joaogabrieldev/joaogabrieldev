@@ -6,22 +6,12 @@
 
 ###
 
-- 🎓 Estudante de Engenharia de Software no UniCEUB, em busca da primeira oportunidade de estágio em desenvolvimento FullStack. <br><br>
-- 🎓 A Software Engineering student at UniCEUB, actively pursuing an internship role in Full-Stack development.<br><br>
-  <br>
-- 🛠️ Foco em tecnologias modernas, com conhecimento principal em React.js, TypeScript e Node.js.<br><br>
-- 🛠️Focused on modern technologies, with a strong foundation in React.js , TypeScript , and Node.js.<br><br>
-  <br>
-- 🌱 Motivado pela curiosidade e pelo aprendizado contínuo, sempre buscando novos conhecimentos.<br><br>
-- 🌱Driven by curiosity and a passion for continuous learning.<br><br>
-  <br>
-- 🚀 Pronto para transformar conhecimento teórico em resultados práticos, colaborando ativamente com os objetivos da equipe.<br><br>
-- 🚀 Ready to apply my academic knowledge to real-world projects and collaborate effectively to achieve team objectives.
+<p align="left">- 🎓 Estudante de Engenharia de Software no UniCEUB, em busca da primeira oportunidade de estágio em desenvolvimento FullStack. <br><br>- 🎓 A Software Engineering student at UniCEUB, actively pursuing an internship role in Full-Stack development.<br><br><br>- 🛠️ Foco em tecnologias modernas, com conhecimento principal em React.js, TypeScript e Node.js.<br><br>- 🛠️Focused on modern technologies, with a strong foundation in React.js , TypeScript , and Node.js.<br><br><br>- 🌱 Motivado pela curiosidade e pelo aprendizado contínuo, sempre buscando novos conhecimentos.<br><br>- 🌱Driven by curiosity and a passion for continuous learning.<br><br><br>- 🚀 Pronto para transformar conhecimento teórico em resultados práticos, colaborando ativamente com os objetivos da equipe.<br><br>- 🚀 Ready to apply my academic knowledge to real-world projects and collaborate effectively to achieve team objectives.</p>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaogabrieldev&locale=pt-br&mode=daily&theme=cobalt&hide_border=false&border_radius=15&&date_format=j%2Fn%5B%2FY%5D&background=46%2C0F131A%2C2C394D&border=0F131A" height= 150 alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=joaogabrieldev&locale=pt-br&mode=daily&theme=cobalt&hide_border=false&border_radius=15&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabrieldev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
