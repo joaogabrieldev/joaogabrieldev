@@ -61,7 +61,7 @@
 
 ###
 
-<h2 align="center">📦 Frameworks e Bibliotecas | Libraries</h2>
+<h2 align="center">📦 Frameworks e Bibliotecas | Libraries 📦</h2>
 
 ###
 
@@ -89,7 +89,7 @@
 
 ###
 
-<h2 align="center">⚙️ Ferramentas e IDE's</h2>
+<h2 align="center">⚙️ Tools | Ferramentas e IDE's ⚙️</h2>
 
 ###
 
