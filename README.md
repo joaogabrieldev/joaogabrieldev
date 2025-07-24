@@ -6,8 +6,8 @@
 
 ###
 
-- 🎓 Estudante de Engenharia de Software no UniCEUB, em busca da primeira oportunidade de estágio em desenvolvimento FullStack. <br><br>
-- 🎓 A Software Engineering student at UniCEUB, actively pursuing an internship role in Full-Stack development.<br><br>
+- 🎓 Estudante de Engenharia de Software no Centro Universitário de Brasília (UniCEUB), em busca da primeira oportunidade de estágio em desenvolvimento FullStack. <br><br>
+- 🎓 A Software Engineering student at Centro Universitário de Brasília (UniCEUB), actively pursuing an internship role in Full-Stack development.<br><br>
 <br>
 
 - 🛠️ Foco em tecnologias modernas, com conhecimento principal em React.js, TypeScript e Node.js.<br><br>
