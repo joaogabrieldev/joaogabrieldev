@@ -90,7 +90,7 @@
 
 ###
 
-<h2 align="center">⚙️ Tools | Ferramentas e IDE's ⚙️</h2>
+<h2 align="center">⚙️ Tools | Ferramentas & IDE's ⚙️</h2>
 
 ###
 
