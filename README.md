@@ -21,8 +21,7 @@
 ###
 
 <div align="center">
-<!--   <img src="https://streak-stats.demolab.com?user=joaogabrieldev&locale=pt-br&mode=daily&theme=cobalt&hide_border=false&border_radius=15&order=3" height="150" alt="streak graph"  /> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaogabrieldev&theme=cobalt&border_radius=8&locale=pt&date_format=j%2Fn%5B%2FY%5D&background=45%2C000000%2C02143B" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=joaogabrieldev&locale=pt-br&mode=daily&theme=cobalt&hide_border=false&border_radius=15&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabrieldev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
