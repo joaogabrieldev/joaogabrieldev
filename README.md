@@ -53,7 +53,9 @@
   <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
   <img width="12" />
    <img width="38" height="38" alt="image" src="https://github.com/user-attachments/assets/b08792a3-330f-4f46-ada9-852ce8a6e1d9" />
-<img width="12" />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -113,8 +115,6 @@
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo" />
   <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
