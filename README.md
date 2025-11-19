@@ -10,7 +10,7 @@
 - 🎓 A Software Engineering student at Centro Universitário de Brasília (UniCEUB), actively pursuing an internship role in Full-Stack development.<br><br><br>
 
 - 🛠️ Foco em tecnologias modernas, com conhecimento principal em React.js, TypeScript e Node.js.<br><br>
-- 🛠️Focused on modern technologies, with a strong foundation in React.js , TypeScript , and Node.js.<br><br><br>
+- 🛠️Focused on modern technologies, with a strong foundation in React.js, TypeScript, and Node.js.<br><br><br>
 
 - 🌱 Motivado pela curiosidade e pelo aprendizado contínuo, sempre buscando novos conhecimentos.<br><br>
 - 🌱Driven by curiosity and a passion for continuous learning.<br><br><br>
