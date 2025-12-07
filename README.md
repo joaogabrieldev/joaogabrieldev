@@ -120,6 +120,8 @@
   <img src="https://skillicons.dev/icons?i=ae" height="45" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio Icon"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm logo"  />
 
   <!-- <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  /> -->
