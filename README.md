@@ -25,38 +25,66 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrieldev&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/joaogabrieldev/joaogabrieldev/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="center">💻 Tecnologias | Technologies 💻</h2>
 
-###
+<h3>🧱 Stack Base</h3>
 
-<div align="center">
-   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+<div align="">
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+<h3>🖼️ Stack Front-End</h3>
+<div align="">
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
+  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" /> -->
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="12" /> -->
+   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
+  <img width="12" /> -->
+   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
+  <img width="12" />
+</div>
+<h3>⚙️ Stack Back-End</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=regex" height="45" alt="regex logo"  />
-  <img width="12" />
-  <img width="38" height="38" alt="GAS logo" src="https://github.com/user-attachments/assets/b08792a3-330f-4f46-ada9-852ce8a6e1d9" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+
+<div align="center">
+  
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" /> -->
+  
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" /> -->
+  
+  
 </div>
 
 ###
