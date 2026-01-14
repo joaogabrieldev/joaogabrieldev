@@ -40,6 +40,8 @@
   <img width="12" />
 </div>
 
+---
+
 <h3>🖼️ Stack Front-End</h3>
 <div align="">
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
@@ -58,8 +60,9 @@
   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="45" height="45" alt="LottieFiles" />
   <img width="12" />
-
 </div>
+
+---
 
 <h3>⚙️ Stack Back-End</h3>
 <div align="">
@@ -78,6 +81,8 @@
   <img width="12" /> -->
 </div>
 
+---
+
 <h3>⚡ Frameworks</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
@@ -86,6 +91,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=astro" height="45" alt="astro logo"  />
 </div>
+
+---
 
 <h3>✨ Extras</h3>
 <div>
