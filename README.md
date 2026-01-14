@@ -50,78 +50,49 @@
   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
-  <img width="12" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
   <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="12" /> -->
-   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="45" height="45" alt="LottieFiles" />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
-  <img width="12" /> -->
-   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
-  <img width="12" />
+
 </div>
+
 <h3>⚙️ Stack Back-End</h3>
+<div align="">
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
+  <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" /> -->
+</div>
+
+<h3>⚡ Frameworks</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=astro" height="45" alt="astro logo"  />
+</div>
+
+<h3>✨ Extras</h3>
+<div>
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
-
-<div align="center">
-  
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" /> -->
-  
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" /> -->
-  
-  
-</div>
-
-###
-
-<h2 align="center">📦 Frameworks & Bibliotecas | Libraries 📦</h2>
-
-###
-
-<div align="center">
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="12" />
-  <!-- <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" /> -->
-   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
-  <img width="12" /> -->
-   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
-  <img width="12" />
+  <img width="10" />
 </div>
 
 ###
