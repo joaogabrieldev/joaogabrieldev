@@ -92,6 +92,8 @@
 <div>
   <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="45" alt="fastapi logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45" alt="sqlalchemy logo"  />
