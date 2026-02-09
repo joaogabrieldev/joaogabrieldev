@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Sobre mim | About Me</h2>
+<!-- <h2 align="left">Sobre mim | About Me</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 - 🌱Driven by curiosity and a passion for continuous learning.<br><br>
 
 - 🚀 Pronto para transformar conhecimento teórico em resultados práticos, colaborando ativamente com os objetivos da equipe.<br>
-- 🚀 Ready to apply my academic knowledge to real-world projects and collaborate effectively to achieve team objectives.
+- 🚀 Ready to apply my academic knowledge to real-world projects and collaborate effectively to achieve team objectives. -->
 
 ###
 
