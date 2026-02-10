@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=joaogabrieldev&locale=pt-br&mode=daily&theme=cobalt&hide_border=false&border_radius=15&order=3" height="150" alt="streak graph"  />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrieldev&layout=compact&theme=dracula" height="150" alt="languages graph" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrieldev&layout=compact&theme=dracula" height="150" alt="languages graph" />
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrieldev)](https://github.com/joaogabrieldev/github-readme-stats) -->
 </div>
 
