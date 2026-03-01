@@ -97,7 +97,7 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="45" alt="fastapi logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45" alt="sqlalchemy logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45" alt="sqlalchemy logo"  /> -->
 </div>
 
 ###
