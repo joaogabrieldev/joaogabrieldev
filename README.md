@@ -68,6 +68,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
@@ -75,8 +77,6 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
   <img width="10" />
   <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" /> -->
 </div>
 
