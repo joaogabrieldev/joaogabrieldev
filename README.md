@@ -51,9 +51,6 @@
   <img width="12" /> -->
   <!-- <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
   <img width="12" /> -->
-  
-  ![shadcn/ui](https://img.shields.io/badge/-2D333B?style=for-the-badge&logo=shadcnui&logoColor=white)
-    <img width="12" /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
