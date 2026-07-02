@@ -72,10 +72,21 @@
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="sqlite logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
   <img width="10" />
+  <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" /> -->
+</div>
+
+<h3>🏛️ Infra & DevOps</h3>
+<div align="">
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
+  <img width="12" />
+  
   <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" /> -->
 </div>
