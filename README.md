@@ -84,9 +84,9 @@
 
 <h3>🏛️ Infra & DevOps</h3>
 <div align="">
-   <img src="https://skillicons.dev/icons?i=bullmq" height="45" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=bullmq" height="45" alt="bullmq logo"  />
   <img width="12" />
   
   <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
