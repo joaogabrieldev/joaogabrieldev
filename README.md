@@ -30,7 +30,7 @@
 
 <h2 align="center">💻 Tecnologias | Technologies 💻</h2>
 
-<h3>🧱 Stack Base</h3>
+<!-- <h3>🧱 Stack Base</h3>
 
 <div align="">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
   <img width="12" />
-</div>
+</div> -->
 
 <h3>🖼️ Stack Front-End</h3>
 <div align="">
