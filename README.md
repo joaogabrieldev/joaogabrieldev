@@ -44,6 +44,8 @@
 <h3>🖌️ Design</h3>
 <div align="">
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="45" height="45" alt="LottieFiles" />
 </div>
 
 <h3>🖼️ Stack Front-End</h3>
