@@ -41,11 +41,16 @@
   <img width="12" />
 </div> -->
 
+<h3>🖌️ Design</h3>
+<div align="">
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+</div>
+
 <h3>🖼️ Stack Front-End</h3>
 <div align="">
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" /> -->
@@ -59,7 +64,6 @@
   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="45" height="45" alt="LottieFiles" />
   <img width="12" />
-
 </div>
 
 <h3>⚙️ Stack Back-End</h3>
