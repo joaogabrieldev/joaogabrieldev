@@ -46,6 +46,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="45" height="45" alt="LottieFiles" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="45" alt="adobeaftereffects logo"  />
 </div>
 
 <h3>🖼️ Stack Front-End</h3>
@@ -132,16 +134,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo" />
   <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=ae" height="45" alt="adobeaftereffects logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio Icon"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm logo"  />
