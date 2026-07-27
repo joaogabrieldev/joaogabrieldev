@@ -64,8 +64,6 @@
   <img width="12" />
   <!-- <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="45" height="45" alt="LottieFiles" />
-  <img width="12" />
 </div>
 
 <h3>⚙️ Stack Back-End</h3>
