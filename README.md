@@ -86,8 +86,8 @@
 <div align="">
   <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bullmq" height="45" alt="bullmq logo"  />
-  <img width="12" />
+  <!-- <img src="https://skillicons.dev/icons?i=bullmq" height="45" alt="bullmq logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo"  />
   <img width="12" />
   
