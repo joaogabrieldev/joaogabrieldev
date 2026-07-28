@@ -48,6 +48,8 @@
   <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="45" height="45" alt="LottieFiles" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="45" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
 </div>
 
 <h3>🖼️ Stack Front-End</h3>
