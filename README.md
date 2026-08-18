@@ -108,8 +108,8 @@
   <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="45" alt="astro logo"  />
+  <!-- <img width="12" />
+  <img src="https://skillicons.dev/icons?i=astro" height="45" alt="astro logo"  /> -->
 </div>
 
 <h3>✨ Extras</h3>
