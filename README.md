@@ -30,97 +30,224 @@
 
 <h2 align="center">💻 Tecnologias | Technologies 💻</h2>
 
-<!-- <h3>🧱 Stack Base</h3>
+<!-- Ícones do svgl (https://svgl.app). Os ícones com versão clara e escura usam <picture> para acompanhar o tema do GitHub. -->
 
-<div align="">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+<h3>🖼️ Front-End</h3>
+<div>
+  <img src="https://svgl.app/library/typescript.svg" height="40" alt="TypeScript" title="TypeScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/react_dark.svg" />
+    <img src="https://svgl.app/library/react_light.svg" height="40" alt="React e React Native" title="React e React Native" />
+  </picture>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
+  <img src="https://svgl.app/library/nextjs_icon_dark.svg" height="40" alt="Next.js" title="Next.js" />
   <img width="12" />
-</div> -->
-
-<h3>🖌️ Design</h3>
-<div align="">
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://svgl.app/library/tailwindcss.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" width="45" height="45" alt="LottieFiles" />
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="Axios" title="Axios" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="45" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
+  <img src="https://svgl.app/library/reactquery.svg" height="40" alt="TanStack Query" title="TanStack Query" />
 </div>
 
-<h3>🖼️ Stack Front-End</h3>
-<div align="">
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+<h3>⚙️ Back-End & API</h3>
+<div>
+  <img src="https://svgl.app/library/nodejs.svg" height="40" alt="Node.js" title="Node.js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img src="https://svgl.app/library/bun.svg" height="40" alt="Bun" title="Bun" />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
-  <img width="12" /> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/expressjs_dark.svg" />
+    <img src="https://svgl.app/library/expressjs.svg" height="40" alt="Express.js" title="Express.js" />
+  </picture>
   <img width="12" />
-  <!-- <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" /> -->
-</div>
-
-<h3>⚙️ Stack Back-End</h3>
-<div align="">
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://svgl.app/library/elysiajs.svg" height="40" alt="Elysia" title="Elysia" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/fastify_dark.svg" />
+    <img src="https://svgl.app/library/fastify.svg" height="40" alt="Fastify" title="Fastify" />
+  </picture>
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="Axios" title="Axios" />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
-  <img width="10" />
-  <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" /> -->
-</div>
-
-<h3>🏛️ Infra & DevOps</h3>
-<div align="">
-  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />
-  <img width="12" />
-  <!-- <img src="https://skillicons.dev/icons?i=bullmq" height="45" alt="bullmq logo"  />
-  <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  
-  <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" /> -->
+  <img src="https://svgl.app/library/postman.svg" height="40" alt="Postman" title="Postman" />
 </div>
 
 <h3>⚡ Frameworks</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
+  <img src="https://svgl.app/library/nextjs_icon_dark.svg" height="40" alt="Next.js" title="Next.js (Web)" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
-  <!-- <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="45" alt="astro logo"  /> -->
+  <img src="https://svgl.app/library/vite.svg" height="40" alt="Vite" title="Vite (Web)" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/astro-icon-dark.svg" />
+    <img src="https://svgl.app/library/astro-icon-light.svg" height="40" alt="Astro" title="Astro (Web)" />
+  </picture>
+  <img width="12" />
+  <img src="https://svgl.app/library/electron.svg" height="40" alt="Electron" title="Electron (Software)" />
+  <img width="12" />
+  <img src="https://svgl.app/library/tauri.svg" height="40" alt="Tauri" title="Tauri (Software)" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/expo/white" />
+    <img src="https://svgl.app/library/expo.svg" height="40" alt="Expo" title="Expo (Mobile)" />
+  </picture>
+</div>
+
+<h3>🗄️ Bancos de Dados & ORMs</h3>
+<div>
+  <img src="https://svgl.app/library/postgresql.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/mysql-icon-dark.svg" />
+    <img src="https://svgl.app/library/mysql-icon-light.svg" height="40" alt="MySQL" title="MySQL" />
+  </picture>
+  <img width="12" />
+  <img src="https://svgl.app/library/sqlite.svg" height="40" alt="SQLite" title="SQLite" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/mongodb-icon-dark.svg" />
+    <img src="https://svgl.app/library/mongodb-icon-light.svg" height="40" alt="MongoDB" title="MongoDB" />
+  </picture>
+  <img width="12" />
+  <img src="https://svgl.app/library/redis.svg" height="40" alt="Redis" title="Redis" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/prisma_dark.svg" />
+    <img src="https://svgl.app/library/prisma.svg" height="40" alt="Prisma" title="Prisma" />
+  </picture>
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/drizzle-orm_dark.svg" />
+    <img src="https://svgl.app/library/drizzle-orm_light.svg" height="40" alt="Drizzle ORM" title="Drizzle ORM" />
+  </picture>
+</div>
+
+<h3>🚀 Deploy</h3>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/vercel_dark.svg" />
+    <img src="https://svgl.app/library/vercel.svg" height="40" alt="Vercel" title="Vercel" />
+  </picture>
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/koyeb/white" />
+    <img src="https://cdn.simpleicons.org/koyeb/black" height="40" alt="Koyeb" title="Koyeb" />
+  </picture>
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/render_white.svg" />
+    <img src="https://svgl.app/library/render_black.svg" height="40" alt="Render" title="Render" />
+  </picture>
+  <img width="12" />
+  <img src="https://svgl.app/library/heroku.svg" height="40" alt="Heroku" title="Heroku" />
+</div>
+
+<h3>🏛️ Infra</h3>
+<div>
+  <img src="./assets/icons/bullmq.png" height="40" alt="BullMQ" title="BullMQ" />
+  <img width="12" />
+  <img src="https://svgl.app/library/redis.svg" height="40" alt="Redis" title="Redis" />
+  <img width="12" />
+  <img src="https://svgl.app/library/supabase.svg" height="40" alt="Supabase" title="Supabase" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/turso-dark.svg" />
+    <img src="https://svgl.app/library/turso-light.svg" height="40" alt="Turso" title="Turso" />
+  </picture>
+</div>
+
+<h3>🔐 DevSecOps</h3>
+<div>
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions" title="CI/CD com GitHub Actions" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sonarqubeserver/126ED3" height="40" alt="SonarQube" title="SonarQube" />
+  <img width="12" />
+  <img src="./assets/icons/gitleaks.png" height="40" alt="GitLeaks" title="GitLeaks" />
+  <img width="12" />
+  <img src="./assets/icons/semgrep.svg" height="30" alt="Semgrep" title="Semgrep" />
+</div>
+
+<h3>🧪 Testes & Documentação</h3>
+<div>
+  <img src="https://svgl.app/library/swagger.svg" height="40" alt="Swagger" title="Swagger" />
+  <img width="12" />
+  <img src="https://svgl.app/library/vitest.svg" height="40" alt="Vitest" title="Vitest" />
+  <img width="12" />
+  <img src="https://svgl.app/library/playwright.svg" height="40" alt="Playwright" title="Playwright" />
+</div>
+
+<h3>🤖 Inteligência Artificial</h3>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/model-context-protocol-dark.svg" />
+    <img src="https://svgl.app/library/model-context-protocol-light.svg" height="40" alt="MCP" title="MCP (integração e criação)" />
+  </picture>
+  <img width="12" />
+  <img src="https://svgl.app/library/claude-ai-icon.svg" height="40" alt="Claude API" title="Claude API" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/openai_dark.svg" />
+    <img src="https://svgl.app/library/openai.svg" height="40" alt="OpenAI Platform" title="OpenAI Platform" />
+  </picture>
+  <img width="12" />
+  <img src="https://svgl.app/library/gemini.svg" height="40" alt="Google AI Studio" title="Google AI Studio (Gemini)" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/midjourney-dark.svg" />
+    <img src="https://svgl.app/library/midjourney.svg" height="40" alt="Midjourney" title="Midjourney" />
+  </picture>
+  <img width="12" />
+  <img src="https://svgl.app/library/n8n.svg" height="40" alt="n8n" title="n8n" />
+</div>
+
+<h3>🖌️ Design & UI/UX</h3>
+<div>
+  <img src="https://svgl.app/library/figma.svg" height="40" alt="Figma" title="Figma" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/framer_dark.svg" />
+    <img src="https://svgl.app/library/framer.svg" height="40" alt="Framer" title="Framer" />
+  </picture>
+  <img width="12" />
+  <img src="./assets/icons/spline.png" height="40" alt="Spline" title="Spline" />
+  <img width="12" />
+  <img src="https://svgl.app/library/claude-ai-icon.svg" height="40" alt="Claude Design" title="Claude Design" />
+  <img width="12" />
+  <img src="https://svgl.app/library/after-effects.svg" height="40" alt="After Effects" title="After Effects" />
+  <img width="12" />
+  <img src="https://svgl.app/library/canva.svg" height="40" alt="Canva" title="Canva" />
 </div>
 
 <h3>✨ Extras</h3>
 <div>
-  <!-- <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
-  <img width="10" /> -->
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="45" alt="fastapi logo"  />
-  <img width="10" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="45" alt="sqlalchemy logo"  /> -->
+  <img src="https://svgl.app/library/python.svg" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://svgl.app/library/fastapi.svg" height="40" alt="FastAPI" title="FastAPI" />
+</div>
+
+<h3>🧩 Usadas nos projetos</h3>
+<div>
+  <img src="https://svgl.app/library/zod.svg" height="40" alt="Zod" title="Zod" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" height="40" alt="React Hook Form" title="React Hook Form" />
+  <img width="12" />
+  <img src="https://svgl.app/library/stripe.svg" height="40" alt="Stripe" title="Stripe" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/clerk-icon-dark.svg" />
+    <img src="https://svgl.app/library/clerk-icon-light.svg" height="40" alt="Clerk" title="Clerk" />
+  </picture>
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sentry/white" />
+    <img src="https://svgl.app/library/sentry.svg" height="40" alt="Sentry" title="Sentry" />
+  </picture>
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/pnpm_dark.svg" />
+    <img src="https://svgl.app/library/pnpm.svg" height="40" alt="pnpm" title="pnpm" />
+  </picture>
 </div>
 
 ###
@@ -130,25 +257,29 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img src="https://svgl.app/library/vscode.svg" height="40" alt="VS Code" title="VS Code" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/cursor_dark.svg" />
+    <img src="https://svgl.app/library/cursor_light.svg" height="40" alt="Cursor" title="Cursor" />
+  </picture>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img src="https://svgl.app/library/git.svg" height="40" alt="Git" title="Git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/github_dark.svg" />
+    <img src="https://svgl.app/library/github_light.svg" height="40" alt="GitHub" title="GitHub" />
+  </picture>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+  <img src="https://svgl.app/library/postman.svg" height="40" alt="Postman" title="Postman" />
   <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo" />
-  <img width="12" /> -->
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio Icon"/>
+  <img src="https://svgl.app/library/visual-studio.svg" height="40" alt="Visual Studio" title="Visual Studio" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm logo"  />
-
-  <!-- <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  /> -->
+  <img src="https://svgl.app/library/pycharm.svg" height="40" alt="PyCharm" title="PyCharm" />
+  <img width="12" />
+  <img src="https://svgl.app/library/intellijidea.svg" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" title="Android Studio" />
 </div>
 
 ###
