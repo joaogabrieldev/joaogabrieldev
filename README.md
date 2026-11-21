@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://svgl.app/library/nextjs_icon_dark.svg" height="40" alt="Next.js" title="Next.js" />
   <img width="12" />
-  <img src="https://svgl.app/library/tailwindcss.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://svgl.app/library/tailwindcss.svg" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="Axios" title="Axios" />
   <img width="12" />
@@ -65,7 +65,7 @@
   <img width="12" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/fastify_dark.svg" />
-    <img src="https://svgl.app/library/fastify.svg" height="40" alt="Fastify" title="Fastify" />
+    <img src="https://svgl.app/library/fastify.svg" height="38" alt="Fastify" title="Fastify" />
   </picture>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="Axios" title="Axios" />
@@ -77,13 +77,13 @@
 <div>
   <img src="https://svgl.app/library/nextjs_icon_dark.svg" height="40" alt="Next.js" title="Next.js (Web)" />
   <img width="12" />
-  <img src="https://svgl.app/library/vite.svg" height="40" alt="Vite" title="Vite (Web)" />
+  <!-- <img src="https://svgl.app/library/vite.svg" height="40" alt="Vite" title="Vite (Web)" />
   <img width="12" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/astro-icon-dark.svg" />
     <img src="https://svgl.app/library/astro-icon-light.svg" height="40" alt="Astro" title="Astro (Web)" />
-  </picture>
-  <img width="12" />
+  </picture> -->
+  <!-- <img width="12" /> -->
   <img src="https://svgl.app/library/electron.svg" height="40" alt="Electron" title="Electron (Software)" />
   <img width="12" />
   <img src="https://svgl.app/library/tauri.svg" height="40" alt="Tauri" title="Tauri (Software)" />
@@ -141,6 +141,8 @@
   </picture>
   <img width="12" />
   <img src="https://svgl.app/library/heroku.svg" height="40" alt="Heroku" title="Heroku" />
+  <img width="12" />
+  <img src="https://svgl.app/library/fly.svg" height="40" alt="Fly.io" title="Fly.io" />
 </div>
 
 <h3>🏛️ Infra</h3>
@@ -148,6 +150,8 @@
   <img src="./assets/icons/bullmq.png" height="40" alt="BullMQ" title="BullMQ" />
   <img width="12" />
   <img src="https://svgl.app/library/redis.svg" height="40" alt="Redis" title="Redis" />
+  <img width="12" />
+  <img src="https://svgl.app/library/neon.svg" height="40" alt="Neon" title="Neon" />
   <img width="12" />
   <img src="https://svgl.app/library/supabase.svg" height="40" alt="Supabase" title="Supabase" />
   <img width="12" />
