@@ -41,8 +41,8 @@
     <img src="https://svgl.app/library/react_light.svg" height="40" alt="React e React Native" title="React e React Native" />
   </picture>
   <img width="12" />
-  <img src="https://svgl.app/library/nextjs_icon_dark.svg" height="40" alt="Next.js" title="Next.js" />
-  <img width="12" />
+  <!-- <img src="https://svgl.app/library/nextjs_icon_dark.svg" height="40" alt="Next.js" title="Next.js" />
+  <img width="12" /> -->
   <img src="https://svgl.app/library/tailwindcss.svg" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="Axios" title="Axios" />
