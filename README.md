@@ -135,11 +135,11 @@
     <img src="https://cdn.simpleicons.org/koyeb/black" height="40" alt="Koyeb" title="Koyeb" />
   </picture>
   <img width="12" />
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/render_white.svg" />
     <img src="https://svgl.app/library/render_black.svg" height="40" alt="Render" title="Render" />
-  </picture>
-  <img width="12" />
+  </picture> -->
+  <!-- <img width="12" /> -->
   <img src="https://svgl.app/library/heroku.svg" height="40" alt="Heroku" title="Heroku" />
   <img width="12" />
   <img src="https://svgl.app/library/fly.svg" height="40" alt="Fly.io" title="Fly.io" />
