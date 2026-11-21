@@ -162,7 +162,7 @@
   <img width="12" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/aws_dark.svg" />
-    <img src="https://svgl.app/library/aws_light.svg" height="38" alt="AWS" title="Amazon Web Services" />
+    <img src="https://svgl.app/library/aws_light.svg" height="36" alt="AWS" title="Amazon Web Services" />
   </picture>
 </div>
 
@@ -207,7 +207,7 @@
     <img src="https://svgl.app/library/midjourney.svg" height="40" alt="Midjourney" title="Midjourney" />
   </picture>
   <img width="12" />
-  <img src="https://svgl.app/library/n8n.svg" height="40" alt="n8n" title="n8n" />
+  <img src="https://svgl.app/library/n8n.svg" height="32" alt="n8n" title="n8n" />
 </div>
 
 <h3>🖌️ Design & UI/UX</h3>
