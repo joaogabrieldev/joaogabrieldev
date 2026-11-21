@@ -69,8 +69,8 @@
   </picture>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="Axios" title="Axios" />
-  <img width="12" />
-  <img src="https://svgl.app/library/postman.svg" height="40" alt="Postman" title="Postman" />
+  <!-- <img width="12" />
+  <img src="https://svgl.app/library/postman.svg" height="40" alt="Postman" title="Postman" /> -->
 </div>
 
 <h3>⚡ Frameworks</h3>
