@@ -155,6 +155,11 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/turso-dark.svg" />
     <img src="https://svgl.app/library/turso-light.svg" height="40" alt="Turso" title="Turso" />
   </picture>
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/aws_dark.svg" />
+    <img src="https://svgl.app/library/aws_light.svg" height="40" alt="AWS" title="Amazon Web Services" />
+  </picture>
 </div>
 
 <h3>🔐 DevSecOps</h3>
