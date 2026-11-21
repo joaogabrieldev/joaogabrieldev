@@ -149,7 +149,7 @@
 <div>
   <img src="./assets/icons/bullmq.png" height="40" alt="BullMQ" title="BullMQ" />
   <img width="12" />
-  <img src="https://svgl.app/library/redis.svg" height="40" alt="Redis" title="Redis" />
+  <img src="https://svgl.app/library/upstash.svg" height="40" alt="Upstash" title="Upstash" />
   <img width="12" />
   <img src="https://svgl.app/library/neon.svg" height="40" alt="Neon" title="Neon" />
   <img width="12" />
