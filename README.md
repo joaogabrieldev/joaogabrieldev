@@ -162,7 +162,7 @@
   <img width="12" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/aws_dark.svg" />
-    <img src="https://svgl.app/library/aws_light.svg" height="40" alt="AWS" title="Amazon Web Services" />
+    <img src="https://svgl.app/library/aws_light.svg" height="38" alt="AWS" title="Amazon Web Services" />
   </picture>
 </div>
 
