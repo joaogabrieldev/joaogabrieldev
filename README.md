@@ -47,7 +47,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="Axios" title="Axios" />
   <img width="12" />
-  <img src="https://svgl.app/library/tanstack.svg" height="40" alt="TanStack Query" title="TanStack Query" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/tanstack_dark.svg" />
+    <img src="https://svgl.app/library/tanstack_light.svg" height="40" alt="TanStack Query" title="TanStack Query" />
+  </picture>
 </div>
 
 <h3>⚙️ Back-End & API</h3>
