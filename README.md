@@ -54,8 +54,6 @@
 <div>
   <img src="https://svgl.app/library/nodejs.svg" height="40" alt="Node.js" title="Node.js" />
   <img width="12" />
-  <img src="https://svgl.app/library/bun.svg" height="40" alt="Bun" title="Bun" />
-  <img width="12" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/expressjs_dark.svg" />
     <img src="https://svgl.app/library/expressjs.svg" height="40" alt="Express.js" title="Express.js" />
@@ -231,6 +229,8 @@
 <h3>🧰 Tooling & Build</h3>
 <div>
   <img src="https://svgl.app/library/npm.svg" height="40" alt="npm" title="npm" />
+  <img width="12" />
+   <img src="https://svgl.app/library/bun.svg" height="40" alt="Bun" title="Bun" />
   <img width="12" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/pnpm_dark.svg" />
