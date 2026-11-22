@@ -228,6 +228,21 @@
   <img src="https://svgl.app/library/canva.svg" height="40" alt="Canva" title="Canva" />
 </div>
 
+<h3>🧰 Tooling & Build</h3>
+<div>
+  <img src="https://svgl.app/library/npm.svg" height="40" alt="npm" title="npm" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/pnpm_dark.svg" />
+    <img src="https://svgl.app/library/pnpm.svg" height="40" alt="pnpm" title="pnpm" />
+  </picture>
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/turborepo-icon-dark.svg" />
+    <img src="https://svgl.app/library/turborepo-icon-light.svg" height="40" alt="Turborepo" title="Turborepo (monorepo)" />
+  </picture>
+</div>
+
 <h3>✨ Extras</h3>
 <div>
   <img src="https://svgl.app/library/python.svg" height="40" alt="Python" title="Python" />
@@ -251,11 +266,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sentry/white" />
     <img src="https://svgl.app/library/sentry.svg" height="40" alt="Sentry" title="Sentry" />
-  </picture>
-  <img width="12" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/pnpm_dark.svg" />
-    <img src="https://svgl.app/library/pnpm.svg" height="40" alt="pnpm" title="pnpm" />
   </picture>
 </div>
 
