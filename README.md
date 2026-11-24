@@ -165,6 +165,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/aws_dark.svg" />
     <img src="https://svgl.app/library/aws_light.svg" height="36" alt="AWS" title="Amazon Web Services" />
   </picture>
+  <img width="12" />
+  <img src="https://svgl.app/library/docker.svg" height="50" alt="Docker" title="Docker" />
+  <img width="12" />
 </div>
 
 <h3>🔐 DevSecOps</h3>
