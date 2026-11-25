@@ -144,6 +144,11 @@
   <img src="https://svgl.app/library/heroku.svg" height="40" alt="Heroku" title="Heroku" />
   <img width="12" />
   <img src="https://svgl.app/library/fly.svg" height="40" alt="Fly.io" title="Fly.io" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/railway_dark.svg" />
+    <img src="https://svgl.app/library/railway.svg" height="40" alt="Railway" title="Railway" />
+  </picture>
 </div>
 
 <h3>🏛️ Infra</h3>
@@ -212,6 +217,11 @@
   </picture>
   <img width="12" />
   <img src="https://svgl.app/library/n8n.svg" height="32" alt="n8n" title="n8n" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/typesafe-ai-dark.svg" />
+    <img src="https://svgl.app/library/typesafe-ai-light.svg" height="40" alt="TypeSafe AI" title="TypeSafe AI" />
+  </picture>
 </div>
 
 <h3>🖌️ Design & UI/UX</h3>
