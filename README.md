@@ -1,22 +1,25 @@
-<h1 align="center">⚡Olá, eu sou o João!</h1> 
+<div align="center">
+
+<h1>⚡Olá, eu sou o João!</h1>
+
+Desenvolvedor Full Stack em Brasília, construindo produtos digitais da interface ao banco de dados.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-joaogabriel.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.joaogabriel.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaogabrielrocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrielrocha/)
+
+[📖 Sobre](#sobre) • [🚀 Projetos](#projetos) • [💻 Tecnologias](#tecnologias) • [⚙️ Ferramentas](#ferramentas) • [👨‍💻 Contato](#contato)
+
+</div>
 
 ###
 
-<!-- <h2 align="left">Sobre mim | About Me</h2>
+<h2 align="center" id="sobre">📖 Sobre mim</h2>
 
-###
-
-- 🎓 Estudante de Engenharia de Software no Centro Universitário de Brasília (UniCEUB), em busca da primeira oportunidade de estágio em desenvolvimento FullStack. <br>
-- 🎓 A Software Engineering student at Centro Universitário de Brasília (UniCEUB), actively pursuing an internship role in Full-Stack development.<br><br>
-
-- 🛠️ Foco em tecnologias modernas, com conhecimento principal em React.js, TypeScript e Node.js.<br>
-- 🛠️Focused on modern technologies, with a strong foundation in React.js, TypeScript, and Node.js.<br><br>
-
-- 🌱 Motivado pela curiosidade e pelo aprendizado contínuo, sempre buscando novos conhecimentos.<br>
-- 🌱Driven by curiosity and a passion for continuous learning.<br><br>
-
-- 🚀 Pronto para transformar conhecimento teórico em resultados práticos, colaborando ativamente com os objetivos da equipe.<br>
-- 🚀 Ready to apply my academic knowledge to real-world projects and collaborate effectively to achieve team objectives. -->
+- 💼 Desenvolvedor Full Stack freelancer: produtos digitais, integrações com APIs e banco de dados, com foco em SEO técnico e DX de manutenção.
+- 🎓 Estudante de Engenharia de Software no Centro Universitário de Brasília (UniCEUB).
+- 🛠️ Stack do dia a dia: TypeScript, React, Next.js, Node.js e Bun, com PostgreSQL e Drizzle no back-end.
+- 🤖 IA no fluxo de trabalho: integrações com a Claude API e criação de servidores MCP.
+- 📍 Brasília, DF · aberto a projetos freelance, remotos ou presenciais.
 
 ###
 
@@ -28,7 +31,74 @@
 
 <img src="https://raw.githubusercontent.com/joaogabrieldev/joaogabrieldev/output/snake.svg" alt="Snake animation" />
 
-<h2 align="center">💻 Tecnologias | Technologies 💻</h2>
+<h2 align="center" id="projetos">🚀 Projetos recentes</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.maquete.dev/"><img src="./assets/projetos/maquete.webp" alt="Print da landing page da Maquete" width="100%" /></a>
+      <h3>🧩 Maquete — Landing Page</h3>
+      <sub>Landing page · produto · nov/2026</sub>
+      <p>Landing do canvas que desenha a arquitetura de projetos em Fly.io, Neon, Vercel e Supabase. Um sistema de exemplo se monta peça por peça com GSAP, e a página continua legível sem JavaScript.</p>
+      <p><sub><b>Stack:</b> Next.js · React · TypeScript · Tailwind CSS · GSAP · Zod</sub></p>
+      <p><a href="https://www.maquete.dev/">🌐 maquete.dev</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://app.risca.tech/"><img src="./assets/projetos/risca.webp" alt="Print da tela de entrada do app Risca" width="100%" /></a>
+      <h3>✍️ Risca — App</h3>
+      <sub>Painel pessoal · produto próprio · nov/2026</sub>
+      <p>Junta issues e PRs do GitHub, tasks do Jira e menções do Slack numa lista do dia que a Claude API ordena e explica. Monorepo com API Elysia, worker em Bun com BullMQ e tempo real via Redis + SSE.</p>
+      <p><sub><b>Stack:</b> Next.js · Elysia · Bun · Drizzle · PostgreSQL · Redis · Claude API</sub></p>
+      <p><a href="https://app.risca.tech/">🌐 app.risca.tech</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.risca.tech/"><img src="./assets/projetos/risca-landing.webp" alt="Print da landing page do Risca" width="100%" /></a>
+      <h3>📝 Risca — Landing Page</h3>
+      <sub>Landing page · produto · nov/2026</sub>
+      <p>Antes de ler qualquer argumento, o visitante risca tarefas numa demo funcional, com desfazer e trava. Movimento em GSAP que respeita quem prefere menos movimento e deploy liberado só com SonarQube, Semgrep e Trivy no verde.</p>
+      <p><sub><b>Stack:</b> Next.js · React · TypeScript · Tailwind CSS · GSAP · SonarQube</sub></p>
+      <p><a href="https://www.risca.tech/">🌐 risca.tech</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sempreporperto.com.br/"><img src="./assets/projetos/sempreporperto.webp" alt="Print da landing page do SemprePorPerto" width="100%" /></a>
+      <h3>💊 SemprePorPerto</h3>
+      <sub>Landing de pré-lançamento · produto próprio · mai/2026</sub>
+      <p>Captação de leads de um app de lembretes de remédio para idosos. Formulário de e-mail e WhatsApp com validação em tempo real, leads em PostgreSQL e envios automáticos por fila.</p>
+      <p><sub><b>Stack:</b> Next.js · TypeScript · Zod · Drizzle · Supabase · Redis</sub></p>
+      <p><a href="https://sempreporperto.com.br/">🌐 sempreporperto.com.br</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://fintrack-omega-snowy.vercel.app/"><img src="./assets/projetos/fintrack.webp" alt="Print do painel do FinTrack com dados de exemplo" width="100%" /></a>
+      <h3>💰 FinTrack</h3>
+      <sub>MVP de finanças pessoais · produto próprio · abr/2026</sub>
+      <p>Aplicação multiusuário de finanças pessoais: cadastro de gastos, categorias próprias, orçamento por categoria, metas de economia e painel com gráficos e alertas. <i>Print com dados de exemplo.</i></p>
+      <p><sub><b>Stack:</b> Next.js · React · TypeScript · Drizzle · SQLite · Recharts</sub></p>
+      <p><a href="https://fintrack-omega-snowy.vercel.app/">🌐 Deploy</a> · <a href="https://github.com/joaogabrieldev/projeto-fintrack">💻 Código</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.formiguinhasdaalegria.com.br/"><img src="./assets/projetos/formiguinhas.webp" alt="Print do site da ONG Formiguinhas da Alegria" width="100%" /></a>
+      <h3>🐜 Formiguinhas da Alegria</h3>
+      <sub>Site institucional de ONG · mar/2026</sub>
+      <p>Site da ONG que atua desde 2016 no DF e Entorno, feito para divulgar a causa e aproximar doadores e voluntários.</p>
+      <p><sub><b>Stack:</b> Next.js · TypeScript · Supabase · Drizzle · Stripe</sub></p>
+      <p><a href="https://www.formiguinhasdaalegria.com.br/">🌐 formiguinhasdaalegria.com.br</a></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![Todos os projetos](https://img.shields.io/badge/Ver_todos_os_projetos-joaogabriel.dev%2Fprojetos-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.joaogabriel.dev/projetos)
+
+</div>
+
+###
+
+<h2 align="center" id="tecnologias">💻 Tecnologias 💻</h2>
 
 <!-- Ícones do svgl (https://svgl.app). Os ícones com versão clara e escura usam <picture> para acompanhar o tema do GitHub. -->
 
@@ -287,7 +357,7 @@
 
 ###
 
-<h2 align="center">⚙️ Tools | Ferramentas & IDE's ⚙️</h2>
+<h2 align="center" id="ferramentas">⚙️ Ferramentas & IDEs ⚙️</h2>
 
 ###
 
@@ -331,17 +401,20 @@
 
 ###
 
-<h2 align="center">Contato / Contact Me</h2>
-
-###
+<h2 align="center" id="contato">👨‍💻 Contato</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joaogabrielrocha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:joaogabriel2r.profissional@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+
+### João Gabriel R. Rocha
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaogabrielrocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrielrocha/)
+[![Portfólio](https://img.shields.io/badge/Site-joaogabriel.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.joaogabriel.dev)
+[![E-mail](https://img.shields.io/badge/E--mail-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:joaogabriel2r.profissional@hotmail.com)
+
 </div>
 
-###
+---
+
+<div align="center">
+Feito com ❤️, TypeScript e muito café.
+</div>
