@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>⚡Olá, eu sou o João!</h1>
+<!-- <h1>⚡Olá, eu sou o João!</h1>
 
-Desenvolvedor Full Stack em Brasília, construindo produtos digitais da interface ao banco de dados.
+Desenvolvedor Full Stack em Brasília, construindo produtos digitais da interface ao banco de dados. -->
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-joaogabriel.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.joaogabriel.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaogabrielrocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabrielrocha/)
@@ -13,13 +13,13 @@ Desenvolvedor Full Stack em Brasília, construindo produtos digitais da interfac
 
 ###
 
-<h2 align="center" id="sobre">📖 Sobre mim</h2>
+<!-- <h2 align="center" id="sobre">📖 Sobre mim</h2>
 
 - 💼 Desenvolvedor Full Stack freelancer: produtos digitais, integrações com APIs e banco de dados, com foco em SEO técnico e DX de manutenção.
 - 🎓 Estudante de Engenharia de Software no Centro Universitário de Brasília (UniCEUB).
 - 🛠️ Stack do dia a dia: TypeScript, React, Next.js, Node.js e Bun, com PostgreSQL e Drizzle no back-end.
 - 🤖 IA no fluxo de trabalho: integrações com a Claude API e criação de servidores MCP.
-- 📍 Brasília, DF · aberto a projetos freelance, remotos ou presenciais.
+- 📍 Brasília, DF · aberto a projetos freelance, remotos ou presenciais. -->
 
 ###
 
