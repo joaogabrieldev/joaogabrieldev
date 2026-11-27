@@ -241,6 +241,8 @@ Desenvolvedor Full Stack em Brasília, construindo produtos digitais da interfac
     <img src="https://svgl.app/library/aws_light.svg" height="36" alt="AWS" title="Amazon Web Services" />
   </picture>
   <img width="12" />
+  <img src="https://svgl.app/library/google-cloud.svg" height="40" alt="Google Cloud" title="Google Cloud" />
+  <img width="12" />
   <img src="https://svgl.app/library/docker.svg" height="50" alt="Docker" title="Docker" />
   <img width="12" />
 </div>
